@@ -16,16 +16,16 @@ device_id,date,reading
 
 Example:
 
-00815,2024-03-01,42
-0231,2024-03-02,N/A
-4020,2024-03-02,
+00731,2024-03-01,42
+0147,2024-03-02,N/A
+3563,2024-03-02,
 
 ## Output Files
 
 - daily_summary.csv
-- 00815.csv
-- 0231.csv
-- 4020.csv
+- 00731.csv
+- 0147.csv
+- 3563.csv
 
 ## Approach
 
